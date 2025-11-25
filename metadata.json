@@ -1,0 +1,5 @@
+{
+  "name": "Gate Shooter Runner",
+  "description": "A runner game where you build an army. Shoot enemies to survive, and shoot decision gates to modify your power-ups dynamically before passing through them.",
+  "requestFramePermissions": []
+}
